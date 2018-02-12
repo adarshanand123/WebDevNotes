@@ -1,0 +1,2 @@
+
+1.Diff b/w .attr and .prop

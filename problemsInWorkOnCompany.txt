@@ -1,0 +1,1 @@
+1.Why are both server side and client side templating required ?

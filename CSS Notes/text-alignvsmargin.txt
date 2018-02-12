@@ -1,0 +1,11 @@
+It is always better and standard way to use text-align : center instead of margin or padding.
+
+Similarly for a container,instead of giving a lot of margins ,use margin : auto.
+
+Remember,there are only two famous ways of center-aligning.And they are margin:auto and text-align.And both are used for block elements.
+
+To align inline elemnet,you would have to make inline element a block element using display:block.
+
+There is a fundamental difference between centering process of text-align and margin:auto.Margin: auto distributes the available margin equally.If there is no margin available then margin:auto would have no effect.To make margin to be available,width% is used.
+While text-align places the content of a block element in center.
+

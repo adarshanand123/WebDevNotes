@@ -1,0 +1,12 @@
+1.Core > Jquery
+2.Event > On
+3.Tree Traversal > find
+4.Jquery Object
+https://learn.jquery.com/using-jquery-core/jquery-object/
+5. .prop() vs .attr()
+6.prevent default
+7.event argument passed to event handler
+8.event.data
+9.jquery.ajax
+10.jquery.get
+11.jquery.ajax vs jquery.get

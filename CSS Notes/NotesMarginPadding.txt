@@ -1,0 +1,1 @@
+There is always some margin assosciated with a element by default.But there is no padding by default.

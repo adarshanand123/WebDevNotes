@@ -1,0 +1,22 @@
+1.how to run v8 standalone?
+2.What the hell is sandbox?
+3.What is difference b/w nodejs and nodejs source?Or,why is windows nodejs different than linux nodejs?
+4.Is module.export a global or local variable?Ponder uopn it conidering caching mechanism and exports and module.exports difference.
+5.See later to return something for favicon.
+6.is send a method of res?I think that I saw it while working in company?
+7.api vs end point
+8.difference b/w app.get() and app.use() in express
+9.Why on making a get request,search bar gets populated?
+10.What does req.params in nodejs contain?
+11.Does action url always get posted in address bar?And,why so?
+12.try to use jquery on niode side.
+13.how to use app.delete method?
+14.Read about restful api later deeply.
+15.What is difference b/w html page on client side and server side ?
+16.Go through router middleware in express carefully.
+17.Go through module,view and controller.
+18.Difference b/w mysql language andmysql database.
+19.Why do browsers written in C++?
+20.What is proper example of devDependencies?
+21.How do we bind anything to process.env?
+22.what is rest api?

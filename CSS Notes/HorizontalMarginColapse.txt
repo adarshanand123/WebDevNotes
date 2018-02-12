@@ -1,0 +1,6 @@
+Horizontal(top and bottom) margin always collapse.Whether it be case of 
+1.two blocks of elements: is unresolvable to the best of my knowledge
+2.child block inside parent block if overflow is set visible
+
+see later
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context

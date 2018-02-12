@@ -1,0 +1,14 @@
+1.Block formatting context
+https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context
+
+2.css positioning  //done
+3.float,clear
+4.inline-block  //done
+5.How to place child css dscription inside parent description.
+6.clearfix
+7.flexbox
+8.Block_formatting_context
+9.align
+10.stacking context
+11.inherit,initial
+12.Good practices for making a page responsive i.e it must not break with change in screen size.

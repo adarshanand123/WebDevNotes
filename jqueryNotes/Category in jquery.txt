@@ -1,0 +1,35 @@
+1>Not done 
+a>callback
+http://api.jquery.com/category/callbacks-object/
+
+b>data
+http://api.jquery.com/category/data/
+
+c>http://api.jquery.com/category/internals/
+
+
+d>http://api.jquery.com/category/core/
+
+2>Not done but important	
+important
+a>http://api.jquery.com/Types/
+
+b>on and off api in jquery.
+why is off needed?
+
+c>Deferred Objects : This would be asked in interview
+
+d>Document loading
+
+e>use of jquery promise
+
+f>event objects
+http://api.jquery.com/category/events/event-object/
+g>miscellaneous
+http://api.jquery.com/category/miscellaneous
+
+3>Done but need to be practiced
+utilities,traversing are important and most frequently used.
+
+4>Leave offset
+

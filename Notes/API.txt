@@ -1,0 +1,3 @@
+API is used to mean a lot of things.
+1.basically it means set of prootocols.
+2.Since this protocol provides you url ,functions,etc. so set of functions or urls or any one function or any one url can be called an API.

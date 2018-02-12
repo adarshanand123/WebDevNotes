@@ -1,0 +1,3 @@
+Very Important Difference:
+1.relative is not respect to its parent,else  it is with respect to its normal position.
+2.absolute is with respect to nearest positioned parent.

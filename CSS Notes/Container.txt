@@ -1,0 +1,24 @@
+Use 
+#container{
+	background-color: DeepSkyBlue;
+	width:60%;
+	margin:15px auto;
+	overflow: auto;
+	padding:20px;
+}
+
+
+1.
+instead of 
+#container{
+	background-color: DeepSkyBlue;
+	margin:5px 10px 5px 10px;  //Giving a lot of margins instead of 'width' would cause pages behave improperly in cellphone i.e. it will not be responsive.
+	overflow: auto;
+	padding:20px;
+}
+
+2.Since you are making a container,it is good practice to use padding,instaed of margin from each of inner child elements.
+
+3.It is very good practice to use overflow: auto to make page responsive and proper behaviour of page.
+
+4.it is also a good practice to use min-height or max-height with container for proper look.

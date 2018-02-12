@@ -1,0 +1,8 @@
+1.IDE includes JDK + editor and debiugging tools.
+(Sometimes JDK includes IDE,since it is development kit so it includes a lot of things and may even include an IDE.)
+
+2.JDK includes JRE(i.e a set of libraries + machine i.e. everything which is required  at run time) + compiler
+
+3.JRE includes libraries + JVM 
+
+4.JVM actually runs a code.

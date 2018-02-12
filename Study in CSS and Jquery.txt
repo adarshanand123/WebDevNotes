@@ -1,0 +1,6 @@
+1.css positioning:relative and absolute
+2.All events in jquery
+3.binding using .on() in jquery
+4.go through jquery library
+and see that  how it is implemented.
+5.How to use a plugin into your code.Like jquery color plugin

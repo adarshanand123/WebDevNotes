@@ -1,0 +1,20 @@
+1.Margin background are transparent.
+2.vertical margins will not have any effect on non-replaced inline elements.
+
+3.In CSS, a replaced element is an element whose representation is outside the scope of CSS. In other words, these are external objects whose representation is independent of the CSS formatting model.Typical ones are:
+A) These are used most:
+   <iframe>
+   <video>
+   <embed>
+   <img>
+   <input type = "image">
+   <input>  <- sometimes
+B) <audio>
+   <canvas>
+   <object>
+   <applet>
+
+4.Containing Block of box A is the box B which contains box A.
+
+5.Whenever block box  or an inline box encloses a block box inside it,two anonymous block box are generated,one before and one after the original block box.
+6.

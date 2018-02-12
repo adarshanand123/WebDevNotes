@@ -1,0 +1,11 @@
+There are only three types of things:-
+1.text : inline or block
+2.image: inline but special
+because
+images can shrink and expand but text cannot.
+
+3.video
+
+
+1.Width and height of element means content available to put something into(i.e blue box ).But this works for block only.
+2.blue box of span is unaffected by width and height and always equal to its content.

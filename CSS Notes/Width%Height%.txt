@@ -1,0 +1,4 @@
+Height% doesnot work.However,width % works.
+I am not very certain but I assume that width% of a block then that block automatically assume that width of parent is viewport width.While that doesnot happen in case of height.
+
+You can solve lot of issues by using vh and vw for the very same element or for the parent element.

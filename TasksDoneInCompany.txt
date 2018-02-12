@@ -1,0 +1,8 @@
+1.tracking
+2.report error ,post
+3.similar property card on client side as well as server side.
+4.including some new version in typeahead
+5.Why did you not visit or why have you not visited card?
+6.Add to favourites
+7.Use of moment.js
+8.broadcasting of events and listening them.

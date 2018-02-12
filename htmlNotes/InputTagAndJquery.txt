@@ -1,0 +1,6 @@
+1.'name' attribute is used for nothing but refernce like id.However,in case of type radio,it has got another meaning in form that it indiactes the group of points.
+
+2.To get the value of input tag,we donot use .text()(actually .text() donot work also),else we use .val().
+.text() is used with all other tags like h,p,etc. to get their text value.
+
+3.'value' and not 'val' is of not much importance when used with type='text' ot 'submit' ,but it is of utmost importnace when used with 'radio',since text which is written beside radio button is of no use.Jquery cannot get text written beside radio button.

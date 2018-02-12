@@ -1,0 +1,29 @@
+1.javascript get request
+2.javascript post request
+3.use of third-party api
+4.ftp
+5.web hosting
+6.$.ajax
+7.$.get
+8.$.post
+9.json
+10.xhttp request
+11.javascript promise
+12.deferred
+13.jquery promise
+14.A project using ajax
+15.go through dotjs properly
+16.ssh
+17.git:blame,git config
+18.ssh in github
+19.Make a chrome extension
+20.css important topics which are not more than 4 and 5
+21.mvc
+22.Implement javascript shell using v8
+23.find internal functioning of libraries of nodejs
+24.Make term clear about scalablity.
+25.I used to broadcast event,How was it done?Try to remember it.
+26.ES6 new features
+27.Es6 class
+28.use strict
+29.Check WordPress.org

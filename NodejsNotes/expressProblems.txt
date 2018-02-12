@@ -1,0 +1,7 @@
+1.problem with app.set.Do expermiments and understand them.
+2.See later: debugging in express
+3.What is in routes folder?
+4.Which one is middleware:- app.get,app.use or function inside them?
+5.In most of middlewares,next() is not used?So,if it is automatically transferred to next middleware?
+6.How to fake that I am working on production?
+7.why do we need seed data in mongodb?

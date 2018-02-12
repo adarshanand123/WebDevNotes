@@ -1,0 +1,33 @@
+Javascript donot run on single thread.Else it is designed to run only on singlr thread.And things which run this javascript are nodejs and browsers.
+
+javascript is ran asynchronously and on-single thread.It provides you facility of running itself non-blockingly.using this laguage ,you can develop concept of event driven.
+
+
+So,there are total four terms :
+1.single-threaded
+2.asynchronous
+3.non-blocking
+4.event-driven
+
+
+put 1 in one group and 2,3,4 in another group.
+It is single threaded means at a time only one javascript code is ran.Even callback functions are not ran cocurrently with main javascript code.First main javascript code execution is terminated and then only callback function code is executed.Callback function code is never executed on another thread.
+
+
+Why is it called that javascript is ran asynchronously?
+whenever something is encountered in code which is to be handled by someone else like timer,some db operation(handled by database/memory),some get request(handled by remote server),etc. then when these operations get completed then callback functions is not executed at the very time when these external operations are completed.Else they are put in an event queue.Since callback function is not executed at the time when it needs to be exceuted so it is said that javascript is ran ascynchronously(i.e. not matching with time.)Similarly when an external event like mouse click is done,again it is mot handled instantly else it is put in event queue.
+
+
+Now,javascript is non-blocking means it donot wait for db,timer,etc. operation to be completed.
+
+Since,callback functions are stored in event queue as events,and when these events pop out of events queue,they tell machine to execute to do something like habdle mouse click or execute callback function.
+
+note:
+your javascript run on single thread i.e. run-time machine like v8 provide only single thread.But run time environment like web browser,nodejs,etc provides a thread pool to deal with timer,db operation,etc. however mouse click directly goes to event queue.
+
+note:
+event queue is also called callback queue or task queue.
+
+note:
+event loop is used for pushing events from event queue into ram(sometimes also called call stack but i donot think so) whenever ram is empty.
+Now,when do ram get empty?I donot know.
